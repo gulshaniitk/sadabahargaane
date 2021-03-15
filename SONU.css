@@ -1,0 +1,15 @@
+.nav #title{
+    text-align: right;
+}
+
+.nav{
+    color: rgb(12, 0, 0);
+    background: radial-gradient(#e0e6e0,#09ec2f);
+    padding: 20px;
+}
+
+.nav a{
+    color: black;
+    word-spacing: 4px;
+    font-size: 1.3em;
+}
